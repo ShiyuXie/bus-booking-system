@@ -10,7 +10,7 @@ import lombok.Setter;
 public class Ticket {
 
 	private String Id;
-	private String seatNumber;
+	private int seatNumber;
 	private boolean cancellable;
 	private String journeyDate;
 	private User passenger;
