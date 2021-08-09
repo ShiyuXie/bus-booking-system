@@ -1,7 +1,7 @@
 package com.aprilxie.bbs.utils;
 
 import com.aprilxie.bbs.dto.RoleDto;
-import com.aprilxie.bbs.model.Role;
+import com.aprilxie.bbs.model.user.Role;
 
 public class RoleMapper {
 	public static RoleDto toRoleDto(Role role) {

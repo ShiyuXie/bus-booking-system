@@ -1,7 +1,7 @@
 package com.aprilxie.bbs.repository;
 import com.aprilxie.bbs.model.Ticket;
 import com.aprilxie.bbs.model.TripSchedule;
-import com.aprilxie.bbs.model.User;
+import com.aprilxie.bbs.model.user.User;
 
 import java.util.ArrayList;
 

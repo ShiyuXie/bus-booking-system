@@ -1,5 +1,7 @@
 package com.aprilxie.bbs.dto;
 
+import java.util.Set;
+
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
@@ -16,5 +18,5 @@ public class UserDto {
 	private String firstName;
 	private String lastName;
 	private String mobileNumber;
-	private String roleCode;
+	private Set<String> roleCode;
 }

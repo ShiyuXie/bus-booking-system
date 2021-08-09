@@ -1,7 +1,7 @@
 package com.aprilxie.bbs.utils;
 
 import com.aprilxie.bbs.dto.UserDto;
-import com.aprilxie.bbs.model.User;
+import com.aprilxie.bbs.model.user.User;
 
 public class UserMapper {
 	public static UserDto toUserDto(User user) {

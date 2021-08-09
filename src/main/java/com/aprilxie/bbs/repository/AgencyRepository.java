@@ -1,7 +1,7 @@
 package com.aprilxie.bbs.repository;
 
 import com.aprilxie.bbs.model.Agency;
-import com.aprilxie.bbs.model.User;
+import com.aprilxie.bbs.model.user.User;
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 
